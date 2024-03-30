@@ -33,8 +33,8 @@ CS 지식을 함께 학습하며 기초를 다지는 스터디
 
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
-| 강신구 | [@soddong](https://github.com/soddong) |
-| 이가은 | [@soddong](https://github.com/soddong) |
+| 강구구 | [@soddong](https://github.com/soddong) |
+| 이가누 | [@soddong](https://github.com/soddong) |
 | 전정민 | [@imjm](https://github.com/imjm) |
 | 최건우 | [@soddong](https://github.com/soddong) |
 | 최소현 | [@soddong](https://github.com/soddong) |
