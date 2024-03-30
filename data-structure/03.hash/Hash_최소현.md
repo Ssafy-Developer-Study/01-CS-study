@@ -103,7 +103,7 @@
         }
     
     		 /**
-         * Adds the specified element to this set if it is not already present.
+         * Adds the specified element to this set if it is not already present
          * More formally, adds the specified element {@code e} to this set if
          * this set contains no element {@code e2} such that
          * {@code Objects.equals(e, e2)}.
