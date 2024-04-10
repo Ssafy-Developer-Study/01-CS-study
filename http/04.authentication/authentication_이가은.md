@@ -120,7 +120,7 @@ Keyword: Authorization
 
 - flow
     
-    ![Untitled](%5B0403_study%5D%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%205397b6b657344b6b8e301a28002727ad/Untitled%206.png)
+    ![Untitled](authentication_이가은_img/%5B0403_study%5D%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%205397b6b657344b6b8e301a28002727ad/Untitled%206.png)
     
     1. 임의의 서버에서 토큰이 발행이 되어서 클라이언트에 간 상황이라고 가정
     
