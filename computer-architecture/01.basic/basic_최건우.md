@@ -32,11 +32,11 @@
 
 ### 메모리
 
-!https://velog.velcdn.com/images/hwanee/post/6ab3f0bd-96ee-4d24-955e-3cfdbbe123c0/image.png
+![](https://velog.velcdn.com/images/hwanee/post/6ab3f0bd-96ee-4d24-955e-3cfdbbe123c0/image.png)
 
 ### CPU
 
-!https://velog.velcdn.com/images/hwanee/post/35af6c4f-45c6-490f-919b-c9f22371b0ba/image.png
+![](https://velog.velcdn.com/images/hwanee/post/35af6c4f-45c6-490f-919b-c9f22371b0ba/image.png)
 
 ### 보조기억장치
 
@@ -127,7 +127,7 @@
 
 ### 한글 인코딩 : 완성형 vs 조합형
 
-!https://velog.velcdn.com/images/hwanee/post/23b8305c-2100-481c-be7e-d292638eee71/image.png
+![](https://velog.velcdn.com/images/hwanee/post/23b8305c-2100-481c-be7e-d292638eee71/image.png)
 
 - 한글의 특징 때문에…
 
@@ -151,7 +151,7 @@
 
 ### 고급 언어와 저급 언어
 
-!https://velog.velcdn.com/images/hwanee/post/4796e605-e10f-4218-ad15-1402f7da9ebe/image.png
+![](https://velog.velcdn.com/images/hwanee/post/4796e605-e10f-4218-ad15-1402f7da9ebe/image.png)
 
 ### 고급 언어
 
@@ -163,7 +163,7 @@
 
 ### 고급 언어 → 저급 언어
 
-!https://velog.velcdn.com/images/hwanee/post/fe6e5ee2-e8c8-4bd8-9a79-fd932f4c6a25/image.png
+![](https://velog.velcdn.com/images/hwanee/post/fe6e5ee2-e8c8-4bd8-9a79-fd932f4c6a25/image.png)
 
 ### 컴파일 언어
 
@@ -186,7 +186,7 @@
 
 ### 명령어 주소 지정 방식
 
-!https://velog.velcdn.com/images/hwanee/post/0d68410d-0d26-4f55-83d6-45e3b0178653/image.png
+![](https://velog.velcdn.com/images/hwanee/post/0d68410d-0d26-4f55-83d6-45e3b0178653/image.png)
 
 - 연산 코드 / 오퍼랜드 / 오퍼랜드
 - ex ⇒ `4bit, 6bit(64종), 6bit(64종)` ⇒ 4바이트 instruction
@@ -206,7 +206,7 @@
 
 **Example**
 
-!https://velog.velcdn.com/images/hwanee/post/db540afa-f0ad-484b-bb04-fabb4042f9f0/image.png
+![](https://velog.velcdn.com/images/hwanee/post/db540afa-f0ad-484b-bb04-fabb4042f9f0/image.png)
 
 ### 2. Direct addressing mode 직접 주소 지정 방식
 
@@ -214,7 +214,7 @@
 
 **Example**
 
-!https://velog.velcdn.com/images/hwanee/post/2a197c72-f39f-4830-8aec-be0fa1f0cae8/image.png
+![](https://velog.velcdn.com/images/hwanee/post/2a197c72-f39f-4830-8aec-be0fa1f0cae8/image.png)
 
 ### 3. Indirect addressing mode 간접 주소 지정 방식
 
@@ -223,23 +223,23 @@
 
 **Example**
 
-!https://velog.velcdn.com/images/hwanee/post/bfdaefc0-0658-41b6-883b-577e5fb67fac/image.png
+![](https://velog.velcdn.com/images/hwanee/post/bfdaefc0-0658-41b6-883b-577e5fb67fac/image.png)
 
 ### 4. Register addressing mode 레지스터 주소 지정 방식
 
 **Example**
 
-!https://velog.velcdn.com/images/hwanee/post/4d1a2537-29fd-433d-a8ec-7783fc5f85d6/image.png
+![](https://velog.velcdn.com/images/hwanee/post/4d1a2537-29fd-433d-a8ec-7783fc5f85d6/image.png)
 
 ### 5. Register indirect addressing mode 레지스터 간접 주소 지정 방식
 
 **Example**
 
-!https://velog.velcdn.com/images/hwanee/post/a03b23d7-0cff-4f1d-883e-5149514d2c69/image.png
+![](https://velog.velcdn.com/images/hwanee/post/a03b23d7-0cff-4f1d-883e-5149514d2c69/image.png)
 
 ## 03-3. C 언어의 컴파일 과정
 
-!https://velog.velcdn.com/images/hwanee/post/d88440a1-2d98-4e0f-ba2d-af9ae24c2cc7/image.png
+![](https://velog.velcdn.com/images/hwanee/post/d88440a1-2d98-4e0f-ba2d-af9ae24c2cc7/image.png)
 
 ### Preprocessor
 
@@ -267,7 +267,7 @@
 
 ## 03-3. Python의 컴파일 과정
 
-!https://velog.velcdn.com/images/hwanee/post/5af75798-e07a-4bf4-9e3e-b60f010fbac4/image.png
+![](https://velog.velcdn.com/images/hwanee/post/5af75798-e07a-4bf4-9e3e-b60f010fbac4/image.png)
 
 ### Compiler
 
