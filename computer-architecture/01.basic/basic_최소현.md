@@ -21,7 +21,7 @@
     데이터를 움직이고 컴퓨터를 작동시키는 정보
 
 ### 부품
-
+![부품사진](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/d19a37fb-2d0f-4b22-948a-18f35357a92b)   
 **핵심부품 4가지**는 아래와 같음
 
 1. 중앙처리장치 (CPU)
@@ -39,19 +39,21 @@
 - 총 7bit (128개)
 
 ### EUC-KR
-
+![euc_kr](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/966fa271-229c-4466-b506-2b387c81b91e)   
+출처:위키피디아
 - 완성형 인코딩 방식
 - 총 2byte 차지
 - 단점 : 정의되지 않은 글자는 나타낼 수 없음
 
 ### 유니코드
-
+![유니코드](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/0c82184a-05cd-4920-be7b-60fc45235b3e)   
+출처:위키피디아
 - 완성형 인코딩 방식
 - 대부분의 나라의 문자, 특수문자, 화살표나 이모티콘 까지도 코드로 표현 가능
 
 ### UTF-8
-
-출처:출위키피디아
+![utf-8](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/c617fdd3-65dd-4ee0-9e6a-b753cd7cb8be)   
+출처:위키피디아
 
 - 유니코드를 인코딩 하는 방식
 - 가변 인코딩 방식 → 글자마다 Byte 길이가 다르다
@@ -139,4 +141,7 @@
 ### 입출력장치 (주변장치)
     ✏️ 외부에서 연결되어 컴퓨터 내부와 정보를 교환하는 장치
 
-마이크, 스피커, 프린터, 마우스, 키보드와 같은 
+마이크, 스피커, 프린터, 마우스, 키보드 등이 있음
+
+# 출처
+* 혼자 공부하는 컴퓨터구조 + 운영체제
