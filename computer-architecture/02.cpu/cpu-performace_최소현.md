@@ -1,7 +1,5 @@
 ## 클록 (Clock)
-
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img src="https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/b0520be6-271b-4f04-80bb-92ee0dbcdfe2" width="700"/>     
 출처: intel
 
 ### 정의
@@ -13,7 +11,7 @@
     —> 발열 문제 발생 —> 쿨러 장착
 
 ## 코어
-![alt text](image.png)
+<img src="https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/b9d89732-d6e5-4a51-a569-c8dd92932f13" width="700"/>    
 출처: intel
 
 ### 정의
@@ -23,7 +21,7 @@
 
 ### 멀티 코어 (멀티 프로세서)
 
-코어를 여러개 포함하고 있는 CPU
+* 코어를 여러개 포함하고 있는 CPU
 
 ## 스레드
 
@@ -46,7 +44,7 @@
 
 - 논리 프로세서 라고도 부름
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2e1dc2d7-ab73-4426-bd42-ea5511afa0c1/5116854a-545e-488d-9d88-4cadd3392c02/Untitled.png)
+   ![스레드](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/0083f2f6-71a4-4050-83da-f2be05d3219e)   
     
 - CPU가 매우 빠른 속도로 여러 스레드 사이를 전환하며 작업을 처리하는 것 (time slicing)
 - 하지만, 물리적으로 분리된 스레드보다 스레드 간의 전환 비용이 상대적으로 낮기 때문에 좀 더 빠름
