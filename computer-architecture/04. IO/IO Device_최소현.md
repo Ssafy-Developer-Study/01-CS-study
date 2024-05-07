@@ -23,7 +23,7 @@
 - 오류 검출
 
 ### 구조
-
+![캡처1](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/4533bffd-5a62-4d4d-b291-b5fea50d130c)
 - 데이터 레지스터
     - CPU와 입출력장치 사이에 주고받을 데이터가 담기는 레지스터
 - 상태 레지스터
@@ -37,35 +37,35 @@
 
 장치 컨트롤러의 동작을 감지하고 제어하는 **프로그램**
 
+### 구조
+![캡처2](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/01201dad-6a8b-43d8-bbca-e9cc382af7ae)
+
 # 프로그램 입출력
 
 - 프로그램 명령어로 입출력장치를 제어하는 방법
 - 즉, **명령어** —> 장치 컨트롤러와 상호작용
 
 ## 방법1. 메모리 맵 입출력
-- 입출력 장치 접근을 위한 명령어가 딱히 없음
+- 입출력 장치 접근을 위한 명령어가 딱히 없음   
+![캡처3](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/f417eceb-9779-440c-9826-819bee9105bf)
 
 ## 방법2. 고립형 입출력
 - 입출력장치 읽기/쓰기 라인을 제어버스에 추가하여, 접근하도록 함
+![캡처4](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/48849f41-78bb-453d-9f5e-11e1d7575e29)
 
 # 인터럽트 기반 입출력
+### 구조
+![캡처5](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/7c9dffe5-7710-48f8-8683-aae4ab3bdae6)
 - 우선순위가 높은 인터럽트를 먼저 처리
-    
     —> PIC (Programmable Interrut Controller)
-    
     - 여러 장치 컨트롤러와 연결되어, 장치 컨트롤러의 인터럽트간 우선순위를 판단
+      ![캡처6](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/a95a8048-1659-4877-92c1-c9273e9addd7)
 
-# DMA 입출력
-- **DMA (Direct Memory Access)**
+# DMA(Direct Memory Access) 입출력
 - CPU를 거치지 않고 입출력장치가 메모리에 직접적으로 접근하는 기능
 
 ### 입출력 과정
-1. CPU는 DMA 컨트롤러에 입출력 작업을 명령
-    
-2. DMA 컨트롤러는 CPU 대신 장치 컨트롤러와 상호작용하며 입출력 작업을 수행
-    
-3. 입출력 작업이 끝나면 DMA 컨트롤러는 인터럽트를 통해 CPU에 작업이 끝났음을 알림
-
+![캡처7](https://github.com/Ssafy-Developer-Study/CS-study/assets/64201367/68a3e2af-1bb5-4904-8dd4-f01b21b38f66)   
 —> CPU는 입출력 작업의 **시작과 끝** 만 관여
 
 ### PCIe (PCI express)
