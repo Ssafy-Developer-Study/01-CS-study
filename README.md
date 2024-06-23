@@ -20,8 +20,8 @@ CS 지식을 함께 학습하며 기초를 다지는 스터디
   1. 네트워크 (공통) [완료]
   2. 자료구조 [완료]
   3. 네트워크 (http) [완료]
-  4. 컴퓨터 구조론 [4월 진행 중]
-  5. 운영체제
+  4. 컴퓨터 구조론 [완료]
+  5. 운영체제 [완료]
 
 ## 📚 Contents
 [더보기](https://six-curio-477.notion.site/11-CS-ca294d4a18324a2e956bb7494f87e74c?pvs=4)
@@ -29,15 +29,14 @@ CS 지식을 함께 학습하며 기초를 다지는 스터디
 | --------------- | -------------------------- |
 | [자료구조](https://github.com/soddong/CS-study/tree/main/data-structure)        | 2024년 2월 1일 ~ 2024년 2월 27일 |
 | [네트워크 (HTTP)](https://github.com/soddong/CS-study/tree/main/http) | 2024년 3월 12일 ~ 2024년 4월 2일 |
-| [컴퓨터 구조](https://github.com/soddong/CS-study/tree/main/computer-architecture)     | 2024년 4월 3일 ~ ing |
-| 운영체제        | 진행 예정                  |  |
+| [컴퓨터 구조](https://github.com/soddong/CS-study/tree/main/computer-architecture)     | 2024년 4월 3일 ~ 2024년 5월 22일 |
 
 ## 👨‍👦‍👦 Member
 
 | 이름   | GitHub                                 |
 | ------ | -------------------------------------- |
-| 강신구 | [@Kang-singu](https://github.com/soddong) |
-| 이가은 | [@Celinemad](https://github.com/soddong) |
+| 강신구 | [@Kang-singu](https://github.com/Kang-singu) |
+| 이가은 | [@Celinemad](https://github.com/Celinemad) |
 | 전정민 | [@imjm](https://github.com/imjm)       |
 | 최건우 | [@uniaut](https://github.com/uniaut)   |
 | 최소현 | [@soddong](https://github.com/soddong) |
